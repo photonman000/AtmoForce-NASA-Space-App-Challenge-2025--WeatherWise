@@ -1,5 +1,5 @@
 # AtmoForce-NASA-Space-App-Challenge-2025--WeatherWise
-UI desiged using figma for  the App Weather wise
+UI desiged using figma for  the App WeatherWise
   This is a code bundle for WeatherWise App Design. The original project is available at [https://www.figma.com/design/8lDHH37xy5EgrVzMEMCPWE/WeatherWise-App-Design.](https://ease-echo-33187671.figma.site)
 
   ## Running the code
