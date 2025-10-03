@@ -1,0 +1,26 @@
+Download and Install Node.js from web.
+
+Can follow the video below(For Windows):
+https://www.youtube.com/watch?v=dEjuZhMY2Tc
+
+Can follow the video below(For mac):
+https://www.youtube.com/watch?v=0LWJ3gmScUY
+
+
+Now:=>
+Run WeatherWise on windows by double clicking on:
+launch-weatherwise.bat
+
+Run on mac or Linux by double clicking on:
+launch-weatherwise.sh
+
+
+enjoy >-^ .........   >>>>       <<<<<<<
+
+
+
+
+{Include the path(where your node.js file is located) to  --PATH environment variable(For Windows)--} if necessary (after getting error in the above process flow)
+
+
+
